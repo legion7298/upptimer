@@ -4,18 +4,20 @@
     "url": "https://www.legion-ms.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.legion-ms.com.ico",
     "slug": "legion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
     "time": 1196,
     "timeDay": 1196,
     "timeWeek": 1196,
     "timeMonth": 1196,
     "timeYear": 1196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   },
   {
     "name": "kland3",
