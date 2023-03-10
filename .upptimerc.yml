@@ -5,18 +5,18 @@ repo: upptimer # The name of this repository
 sites:
   - name: st1_web_addr
     url: $st1_web_addr
-  - name: kland3
-    url: https://www.kland3.com
-  - name: pmgdj
-    url: https://www.pmgdj.com
-  - name: boojaland
-    url: https://www.boojaland.com
-  - name: sejong
-    url: https://www.sjgongin.co.kr
-  - name: ronpark
-    url: https://www.ronpark.com
-  - name: show1
-    url: http://show1.legion-ms.com
+  - name: st2_web_addr
+    url: $st2_web_addr
+  - name: st3_web_addr
+    url: $st3_web_addr
+  - name: st4_web_addr
+    url: $st4_web_addr
+  - name: st5_web_addr
+    url: $st5_web_addr
+  - name: st6_web_addr
+    url: $st6_web_addr
+  - name: st7_web_addr
+    url: $st7_web_addr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
