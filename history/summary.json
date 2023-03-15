@@ -112,18 +112,19 @@
     "url": "$ST7_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st7-web-addr",
-    "status": "up",
-    "uptime": "98.06%",
+    "status": "down",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.06%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 1113,
     "timeDay": 1080,
     "timeWeek": 1113,
     "timeMonth": 1113,
     "timeYear": 1113,
     "dailyMinutesDown": {
+      "2023-03-15": 0,
       "2023-03-13": 130
     }
   }
