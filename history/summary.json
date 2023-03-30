@@ -94,19 +94,19 @@
     "url": "$ST6_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st6-web-addr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1478,
-    "timeDay": 1097,
-    "timeWeek": 1337,
-    "timeMonth": 1478,
-    "timeYear": 1478,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1488,
+    "timeDay": 1305,
+    "timeWeek": 1380,
+    "timeMonth": 1488,
+    "timeYear": 1488,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 27
     }
   },
   {
