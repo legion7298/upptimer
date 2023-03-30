@@ -1,7 +1,7 @@
 url: $ST6_WEB_ADDR
-status: down
-code: 403
-responseTime: 915
-lastUpdated: 2023-03-30T15:20:40.647Z
+status: up
+code: 200
+responseTime: 1721
+lastUpdated: 2023-03-30T15:48:04.780Z
 startTime: Fri Mar 10 2023 09:47:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
