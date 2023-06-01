@@ -4,10 +4,10 @@
     "url": "$ST1_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st1-web-addr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
@@ -15,7 +15,9 @@
     "timeWeek": 1105,
     "timeMonth": 1146,
     "timeYear": 1108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 1
+    }
   },
   {
     "name": "st2_web_addr",
@@ -58,9 +60,9 @@
     "url": "$ST4_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st4-web-addr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 1477,
     "timeMonth": 1511,
     "timeYear": 1434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "st5_web_addr",
