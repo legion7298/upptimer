@@ -101,9 +101,9 @@
     "url": "$ST6_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st6-web-addr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -113,6 +113,7 @@
     "timeMonth": 1479,
     "timeYear": 1494,
     "dailyMinutesDown": {
+      "2023-06-30": 0,
       "2023-05-26": 108,
       "2023-03-30": 27
     }
