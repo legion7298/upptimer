@@ -1,7 +1,7 @@
 url: $ST7_WEB_ADDR
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-28T23:01:22.593Z
+code: 503
+responseTime: 671
+lastUpdated: 2023-11-29T23:00:46.711Z
 startTime: 2023-03-10T09:47:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
