@@ -1,7 +1,7 @@
 url: $ST2_WEB_ADDR
-status: up
-code: 200
-responseTime: 1543
-lastUpdated: 2024-04-15T23:00:26.536Z
+status: down
+code: 502
+responseTime: 1007
+lastUpdated: 2024-04-16T08:40:52.370Z
 startTime: 2023-03-10T09:47:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
