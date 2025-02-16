@@ -3,25 +3,25 @@ owner: legion7298 # Your GitHub organization or username, where this repository 
 repo: upptimer # The name of this repository
 
 sites:
-  - name: st1_web_addr
+  - name: st1_web_addr(LG)
     url: $ST1_WEB_ADDR
-  - name: st2_web_addr
+  - name: st2_web_addr(KL3)
     url: $ST2_WEB_ADDR
-  - name: st3_web_addr
+  - name: st3_web_addr(DPK)
     url: $ST3_WEB_ADDR
-  - name: st4_web_addr
+  - name: st4_web_addr(BoL)
     url: $ST4_WEB_ADDR
-  - name: st5_web_addr
+  - name: st5_web_addr(GL3)
     url: $ST5_WEB_ADDR
-  - name: st6_web_addr
+  - name: st6_web_addr(RPK)
     url: $ST6_WEB_ADDR
-  - name: st7_web_addr
+  - name: st7_web_addr(SHOW1)
     url: $ST7_WEB_ADDR
-  - name: st8_web_addr
+  - name: st8_web_addr(DDM)
     url: $ST8_WEB_ADDR
-  - name: st9_web_addr
+  - name: st9_web_addr(EDUM)
     url: $ST9_WEB_ADDR
-  - name: st10_web_addr
+  - name: st10_web_addr(INC)
     url: $ST10_WEB_ADDR
 
 status-website:
