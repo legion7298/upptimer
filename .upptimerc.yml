@@ -17,6 +17,12 @@ sites:
     url: $ST6_WEB_ADDR
   - name: st7_web_addr
     url: $ST7_WEB_ADDR
+  - name: st8_web_addr
+    url: $ST8_WEB_ADDR
+  - name: st9_web_addr
+    url: $ST9_WEB_ADDR
+  - name: st10_web_addr
+    url: $ST10_WEB_ADDR
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
