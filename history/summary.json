@@ -96,9 +96,9 @@
     "url": "$ST6_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st6-web-addr-rpk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 1468,
     "timeMonth": 1509,
     "timeYear": 1516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "st7_web_addr(SHOW1)",
@@ -126,7 +128,7 @@
     "timeMonth": 599,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-06-29": 35,
+      "2025-06-29": 42,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
