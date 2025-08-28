@@ -1,7 +1,7 @@
 url: $ST8_WEB_ADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-28T15:39:08.991Z
+status: up
+code: 200
+responseTime: 15163
+lastUpdated: 2025-08-28T16:54:39.772Z
 startTime: 2025-02-16T13:45:48.161Z
 generator: Upptime <https://github.com/upptime/upptime>
