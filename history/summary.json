@@ -128,7 +128,7 @@
     "timeMonth": 662,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-08-29": 908,
+      "2025-08-29": 919,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -393,19 +393,19 @@
     "url": "$ST10_WEB_ADDR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "st10-web-addr-inc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2663,
-    "timeDay": 4259,
-    "timeWeek": 3149,
-    "timeMonth": 2761,
-    "timeYear": 2663,
+    "time": 2661,
+    "timeDay": 3568,
+    "timeWeek": 3042,
+    "timeMonth": 2744,
+    "timeYear": 2661,
     "dailyMinutesDown": {
-      "2025-08-29": 0
+      "2025-08-29": 11
     }
   }
 ]
