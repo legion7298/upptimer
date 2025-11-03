@@ -1,7 +1,7 @@
 url: $ST5_WEB_ADDR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-03T04:48:04.615Z
+status: up
+code: 200
+responseTime: 2369
+lastUpdated: 2025-11-03T06:55:31.596Z
 startTime: 2025-02-16T13:45:42.663Z
 generator: Upptime <https://github.com/upptime/upptime>
