@@ -6,9 +6,9 @@
     "slug": "st1-web-addr-lg",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1192,
     "timeDay": 1326,
@@ -16,7 +16,7 @@
     "timeMonth": 1193,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2026-02-09": 0,
+      "2026-02-09": 8,
       "2025-11-03": 129,
       "2025-05-13": 37
     }
@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "98.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.20%",
-    "uptimeMonth": "86.70%",
+    "uptimeWeek": "42.12%",
+    "uptimeMonth": "86.68%",
     "uptimeYear": "98.84%",
     "time": 1315,
     "timeDay": 0,
@@ -38,7 +38,7 @@
     "timeMonth": 1311,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2026-02-09": 34,
+      "2026-02-09": 42,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2026-02-09": 34,
+      "2026-02-09": 42,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -197,7 +197,7 @@
     "timeMonth": 613,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2026-02-09": 34,
+      "2026-02-09": 42,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -564,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 2856,
     "dailyMinutesDown": {
-      "2026-02-09": 34,
+      "2026-02-09": 42,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -782,7 +782,7 @@
     "uptime": "91.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.02%",
+    "uptimeMonth": "0.01%",
     "uptimeYear": "91.47%",
     "time": 2653,
     "timeDay": 0,
@@ -790,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 2653,
     "dailyMinutesDown": {
-      "2026-02-09": 34,
+      "2026-02-09": 42,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
