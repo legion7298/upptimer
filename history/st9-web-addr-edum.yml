@@ -1,7 +1,7 @@
 url: $ST9_WEB_ADDR
-status: down
-code: 503
-responseTime: 1735
-lastUpdated: 2026-03-20T11:13:05.676Z
+status: up
+code: 200
+responseTime: 1782
+lastUpdated: 2026-03-20T11:27:30.774Z
 startTime: 2025-02-16T13:45:51.869Z
 generator: Upptime <https://github.com/upptime/upptime>
